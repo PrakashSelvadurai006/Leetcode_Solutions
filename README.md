@@ -69,8 +69,14 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2733-neither-minimum-nor-maximum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2733-neither-minimum-nor-maximum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2784-check-if-array-is-good](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 <!---LeetCode Topics End-->
