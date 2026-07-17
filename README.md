@@ -58,3 +58,11 @@ This repository is maintained for my personal learning journey. Suggestions and 
 ---
 
 ⭐ If you find this repository helpful, please consider giving it a **Star**!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0007-reverse-integer/) | Medium |
+<!---LeetCode Topics End-->
