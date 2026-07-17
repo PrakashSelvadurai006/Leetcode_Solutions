@@ -1,0 +1,60 @@
+# 🚀 LeetCode Solutions
+
+Welcome to my **LeetCode Solutions** repository!
+
+This repository contains my solutions to LeetCode problems solved in **Java**. I created this repository to improve my problem-solving skills, strengthen my understanding of Data Structures and Algorithms (DSA), and prepare for coding interviews.
+
+## 👨‍💻 About Me
+
+- **Name:** Prakash Selvadurai
+- 🎓 B.Tech Information Technology
+- 💻 Interested in Software Development and Problem Solving
+- 🌱 Currently learning Data Structures, Algorithms, and System Design
+
+## 🛠 Language
+
+- Java ☕
+
+## 📚 Topics Covered
+
+- Arrays
+- Strings
+- Hashing
+- Sorting
+- Searching
+- Two Pointers
+- Sliding Window
+- Stack
+- Queue
+- Linked List
+- Trees
+- Binary Trees
+- Binary Search Trees
+- Graphs
+- Heap (Priority Queue)
+- Recursion
+- Backtracking
+- Greedy Algorithms
+- Dynamic Programming
+- Bit Manipulation
+- Math
+
+## 🎯 Goals
+
+- Solve LeetCode problems consistently.
+- Write clean and optimized Java solutions.
+- Improve coding and analytical skills.
+- Prepare for technical interviews.
+
+## 🤝 Contributions
+
+This repository is maintained for my personal learning journey. Suggestions and improvements are always welcome.
+
+## 🔗 Connect With Me
+
+- **GitHub:** https://github.com/PrakashSelvadurai006
+- **LeetCode:** https://leetcode.com/u/Prakash-2006/
+
+---
+
+⭐ If you find this repository helpful, please consider giving it a **Star**!
