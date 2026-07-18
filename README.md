@@ -65,9 +65,11 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sorting
@@ -79,4 +81,8 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2784-check-if-array-is-good](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
