@@ -86,4 +86,8 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2315-count-asterisks](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2315-count-asterisks/) | Easy |
 <!---LeetCode Topics End-->
