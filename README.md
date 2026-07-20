@@ -70,6 +70,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1260-shift-2d-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
@@ -134,4 +135,5 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
