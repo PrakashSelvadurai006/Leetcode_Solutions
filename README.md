@@ -67,6 +67,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0007-reverse-integer](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0263-ugly-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0292-nim-game/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -169,4 +170,12 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
