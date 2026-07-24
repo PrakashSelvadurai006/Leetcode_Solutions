@@ -79,6 +79,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0852-peak-index-in-a-mountain-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1260-shift-2d-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
