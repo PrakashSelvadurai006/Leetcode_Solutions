@@ -70,6 +70,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0292-nim-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0292-nim-game/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
