@@ -82,6 +82,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1260-shift-2d-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
@@ -95,6 +96,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -129,6 +131,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Bit Manipulation
