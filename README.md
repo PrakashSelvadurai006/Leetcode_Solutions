@@ -126,6 +126,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0171-excel-sheet-column-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -194,6 +195,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
