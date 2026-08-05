@@ -81,6 +81,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
@@ -107,6 +108,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -216,6 +218,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0075-sort-colors](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Brainteaser
@@ -239,4 +242,12 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
