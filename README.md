@@ -80,6 +80,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -138,6 +139,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0014-longest-common-prefix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -250,4 +252,8 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
