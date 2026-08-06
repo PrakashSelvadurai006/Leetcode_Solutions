@@ -97,6 +97,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1534-count-good-triplets](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
@@ -260,5 +261,6 @@ This repository is maintained for my personal learning journey. Suggestions and 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1534-count-good-triplets](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
