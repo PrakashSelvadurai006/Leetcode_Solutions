@@ -271,4 +271,8 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 <!---LeetCode Topics End-->
