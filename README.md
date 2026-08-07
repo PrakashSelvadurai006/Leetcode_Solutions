@@ -275,4 +275,5 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0607-sales-person](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0607-sales-person/) | Easy |
 <!---LeetCode Topics End-->
