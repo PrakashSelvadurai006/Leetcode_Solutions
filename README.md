@@ -85,6 +85,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0074-search-a-2d-matrix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
@@ -172,6 +173,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
