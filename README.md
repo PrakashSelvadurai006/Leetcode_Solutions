@@ -277,4 +277,5 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0607-sales-person](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0607-sales-person/) | Easy |
 | [0619-biggest-single-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0619-biggest-single-number/) | Easy |
+| [0626-exchange-seats](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0626-exchange-seats/) | Medium |
 <!---LeetCode Topics End-->
