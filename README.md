@@ -104,6 +104,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1816-truncate-sentence](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -120,6 +121,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -165,6 +167,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0316-remove-duplicate-letters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -281,4 +284,8 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0607-sales-person](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0607-sales-person/) | Easy |
 | [0619-biggest-single-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0626-exchange-seats/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 <!---LeetCode Topics End-->
