@@ -81,6 +81,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3536-maximum-product-of-two-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3697-compute-decimal-representation](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3731-find-missing-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
