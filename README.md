@@ -110,6 +110,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1528-shuffle-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1816-truncate-sentence](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1816-truncate-sentence/) | Easy |
@@ -184,6 +185,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1221-split-a-string-in-balanced-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
+| [1528-shuffle-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1816-truncate-sentence](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [2315-count-asterisks](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2315-count-asterisks/) | Easy |
