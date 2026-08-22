@@ -106,6 +106,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1260-shift-2d-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -141,6 +142,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
@@ -156,6 +158,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0012-integer-to-roman](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0217-contains-duplicate](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -323,5 +326,6 @@ This repository is maintained for my personal learning journey. Suggestions and 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 <!---LeetCode Topics End-->
