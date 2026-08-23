@@ -166,6 +166,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2716-minimize-string-length](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3731-find-missing-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -194,6 +195,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1927-sum-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [2315-count-asterisks](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2716-minimize-string-length](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3110-score-of-a-string/) | Easy |
 ## Greedy
