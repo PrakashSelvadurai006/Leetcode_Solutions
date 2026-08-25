@@ -114,6 +114,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1528-shuffle-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -165,6 +166,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2716-minimize-string-length](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2716-minimize-string-length/) | Easy |
@@ -193,6 +195,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1528-shuffle-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1927-sum-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [2315-count-asterisks](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2315-count-asterisks/) | Easy |
@@ -224,6 +227,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [0136-single-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
@@ -233,6 +237,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Stack
