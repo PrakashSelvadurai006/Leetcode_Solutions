@@ -1,12 +1,12 @@
 class Solution{
     public ListNode addTwoNumbers(ListNode l1,ListNode l2){
-        ListNode dummy=new ListNode(0);
-        ListNode cur=dummy;
+        ListNode dum=new ListNode(0);
+        ListNode cur=dum;
         int carry=0;
 
         while(l1!=null||l2!=null||carry!=0){
             int sum=carry;
-            
+
             if(l1!=null){
                 sum+=l1.val;
                 l1=l1.next;
@@ -19,6 +19,6 @@ class Solution{
             cur=cur.next;
             carry=sum/10;
         }
-        return dummy.next;
+        return dum.next;
     }
 }
