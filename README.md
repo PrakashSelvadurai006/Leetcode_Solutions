@@ -64,6 +64,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -354,4 +355,12 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
