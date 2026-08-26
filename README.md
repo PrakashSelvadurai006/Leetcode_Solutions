@@ -132,6 +132,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3131-find-the-integer-added-to-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3151-special-array-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3200-maximum-height-of-a-triangle](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3200-maximum-height-of-a-triangle/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3452-sum-of-good-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -341,6 +342,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1534-count-good-triplets/) | Easy |
+| [3200-maximum-height-of-a-triangle](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3200-maximum-height-of-a-triangle/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
