@@ -1,7 +1,7 @@
 class Solution{
     public int maxHeightOfTriangle(int red,int blue){
-        int ans=0;
 
+        int ans=0;
         for(int i=1;i<=100;i++){
             int odd=(i+1)/2;
             int even=i/2;
