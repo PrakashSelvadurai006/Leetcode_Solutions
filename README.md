@@ -208,6 +208,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3174-clear-digits/) | Easy |
+| [3210-find-the-encrypted-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3210-find-the-encrypted-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
