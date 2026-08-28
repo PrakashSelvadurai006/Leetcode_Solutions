@@ -134,6 +134,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3151-special-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3151-special-array-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3200-maximum-height-of-a-triangle](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3200-maximum-height-of-a-triangle/) | Easy |
+| [3354-make-array-elements-equal-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3452-sum-of-good-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -279,6 +280,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3028-ant-on-the-boundary](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3174-clear-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3174-clear-digits/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3354-make-array-elements-equal-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +300,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3354-make-array-elements-equal-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
