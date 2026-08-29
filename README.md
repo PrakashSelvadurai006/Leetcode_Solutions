@@ -129,6 +129,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2643-row-with-maximum-ones](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3151-special-array-i/) | Easy |
@@ -160,6 +161,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -377,4 +379,8 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 <!---LeetCode Topics End-->
