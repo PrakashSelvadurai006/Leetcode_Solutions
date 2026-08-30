@@ -209,6 +209,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1927-sum-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [2315-count-asterisks](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2315-count-asterisks/) | Easy |
@@ -316,6 +317,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0125-valid-palindrome](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
