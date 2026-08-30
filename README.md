@@ -215,6 +215,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1816-truncate-sentence](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1927-sum-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2315-count-asterisks](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2716-minimize-string-length](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2716-minimize-string-length/) | Easy |
