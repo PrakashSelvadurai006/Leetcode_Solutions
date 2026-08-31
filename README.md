@@ -125,6 +125,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2022-convert-1d-array-into-2d-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -233,6 +234,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1221-split-a-string-in-balanced-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1927-sum-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
