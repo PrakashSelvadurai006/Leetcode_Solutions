@@ -79,6 +79,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1406-stone-game-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1927-sum-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -134,6 +135,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2784-check-if-array-is-good](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3151-special-array-i/) | Easy |
@@ -187,6 +189,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2716-minimize-string-length](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -285,6 +288,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1260-shift-2d-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
