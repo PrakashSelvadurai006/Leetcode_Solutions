@@ -3,8 +3,8 @@ class Solution {
         int n=grid.length;
         int size=n*n;
         int[] freq=new int[size+1];
-        int repeated=-1;
-        int missing=-1;
+        int r=-1;
+        int m=-1;
         for(int[] row:grid){
             for(int num:row){
                 freq[num]++;
@@ -12,12 +12,12 @@ class Solution {
         }
         for(int num=1;num<=size;num++){
             if(freq[num]==2){
-                repeated=num;
+                r=num;
             }
             if(freq[num]==0){
-                missing=num;
+                m=num;
             }
         }
-        return new int[]{repeated,missing};
+        return new int[]{r,m};
     }
 }
