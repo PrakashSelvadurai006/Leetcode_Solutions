@@ -230,6 +230,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3110-score-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3174-clear-digits/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3210-find-the-encrypted-string/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +334,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0283-move-zeroes](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
