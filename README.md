@@ -152,6 +152,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3731-find-missing-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +291,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2643-row-with-maximum-ones](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -401,4 +403,8 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
