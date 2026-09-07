@@ -397,10 +397,12 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
