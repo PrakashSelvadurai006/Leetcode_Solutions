@@ -425,11 +425,13 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,6 +440,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
