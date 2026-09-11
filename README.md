@@ -148,6 +148,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3446-sort-matrix-by-diagonals](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3452-sum-of-good-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3697-compute-decimal-representation](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -195,6 +196,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -384,6 +386,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1534-count-good-triplets](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [3200-maximum-height-of-a-triangle](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3200-maximum-height-of-a-triangle/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,6 +414,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
