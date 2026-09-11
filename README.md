@@ -107,6 +107,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0414-third-maximum-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -183,6 +184,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0012-integer-to-roman](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0217-contains-duplicate](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -216,6 +218,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0412-fizz-buzz](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
