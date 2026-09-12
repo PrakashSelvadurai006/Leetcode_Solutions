@@ -90,6 +90,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3870-count-commas-in-range](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3959-check-good-integer](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3959-check-good-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +319,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3174-clear-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3174-clear-digits/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3959-check-good-integer](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3959-check-good-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
