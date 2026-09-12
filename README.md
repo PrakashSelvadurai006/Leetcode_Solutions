@@ -242,6 +242,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3210-find-the-encrypted-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3210-find-the-encrypted-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
