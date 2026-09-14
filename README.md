@@ -74,6 +74,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0412-fizz-buzz](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1406-stone-game-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -468,4 +469,8 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
