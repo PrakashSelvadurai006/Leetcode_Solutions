@@ -124,6 +124,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1534-count-good-triplets](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -473,4 +474,8 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1652-defuse-the-bomb](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 <!---LeetCode Topics End-->
