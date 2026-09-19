@@ -94,6 +94,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3959-check-good-integer](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3959-check-good-integer/) | Easy |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +268,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
