@@ -299,6 +299,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -450,11 +451,13 @@ This repository is maintained for my personal learning journey. Suggestions and 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -465,6 +468,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
