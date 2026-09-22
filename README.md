@@ -453,12 +453,14 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
@@ -470,10 +472,12 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
