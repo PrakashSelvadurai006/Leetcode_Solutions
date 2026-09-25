@@ -112,6 +112,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0283-move-zeroes](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0414-third-maximum-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0463-island-perimeter](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -315,6 +316,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0463-island-perimeter](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [1260-shift-2d-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -468,6 +470,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0101-symmetric-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0463-island-perimeter](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -489,6 +492,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0101-symmetric-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0463-island-perimeter](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
