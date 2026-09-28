@@ -526,4 +526,8 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0192-word-frequency](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0192-word-frequency/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
