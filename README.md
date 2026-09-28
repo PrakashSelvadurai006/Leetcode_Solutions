@@ -220,6 +220,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
