@@ -172,6 +172,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0075-sort-colors](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -194,6 +195,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -228,6 +230,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0171-excel-sheet-column-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0412-fizz-buzz](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
@@ -285,6 +288,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [0136-single-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
