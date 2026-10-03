@@ -197,6 +197,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0217-contains-duplicate](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0409-longest-palindrome](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -235,6 +236,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0345-reverse-vowels-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0409-longest-palindrome](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -270,6 +272,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0409-longest-palindrome](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
