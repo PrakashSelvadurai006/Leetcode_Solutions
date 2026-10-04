@@ -435,6 +435,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0607-sales-person](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0607-sales-person/) | Easy |
 | [0619-biggest-single-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0626-exchange-seats/) | Medium |
+| [1683-invalid-tweets](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Counting Sort
