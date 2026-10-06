@@ -271,6 +271,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3931-check-adjacent-digit-differences/) | Easy |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -439,6 +440,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3200-maximum-height-of-a-triangle](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3200-maximum-height-of-a-triangle/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -545,6 +547,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1652-defuse-the-bomb](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy |
 ## Impartial Game
 | Problem Name | Difficulty |
 | ------- | ------- |
