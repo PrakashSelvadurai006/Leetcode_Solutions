@@ -167,6 +167,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [4020-elevator-requests-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4020-elevator-requests-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,6 +360,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3354-make-array-elements-equal-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3959-check-good-integer](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3959-check-good-integer/) | Easy |
+| [4020-elevator-requests-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4020-elevator-requests-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
