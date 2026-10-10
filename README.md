@@ -140,6 +140,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2053-kth-distinct-string-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -181,6 +182,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -290,6 +292,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1927-sum-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -298,6 +301,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Bit Manipulation
@@ -377,6 +381,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0852-peak-index-in-a-mountain-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1539-kth-missing-positive-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
