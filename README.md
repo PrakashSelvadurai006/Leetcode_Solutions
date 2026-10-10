@@ -235,6 +235,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0022-generate-parentheses](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
@@ -535,6 +536,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0100-same-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0463-island-perimeter](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 ## Shortest Path
@@ -567,6 +569,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
