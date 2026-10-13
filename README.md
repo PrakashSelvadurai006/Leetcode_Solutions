@@ -147,6 +147,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2733-neither-minimum-nor-maximum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -214,6 +215,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2716-minimize-string-length](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -299,6 +301,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2333-minimum-sum-of-squared-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
@@ -317,6 +320,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0389-find-the-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
