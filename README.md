@@ -92,6 +92,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3697-compute-decimal-representation/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -303,6 +304,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Heap (Priority Queue)
