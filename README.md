@@ -82,6 +82,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1406-stone-game-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1927-sum-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2409-count-days-spent-together](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -275,6 +276,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2315-count-asterisks](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2409-count-days-spent-together](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2716-minimize-string-length](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3110-score-of-a-string/) | Easy |
