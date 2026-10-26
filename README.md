@@ -167,6 +167,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3483-unique-3-digit-even-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3697-compute-decimal-representation](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -370,6 +371,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2643-row-with-maximum-ones](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -507,6 +509,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -534,6 +537,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0463-island-perimeter](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -558,6 +562,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0301-remove-invalid-parentheses](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0463-island-perimeter](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
