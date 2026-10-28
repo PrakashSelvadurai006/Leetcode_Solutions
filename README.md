@@ -174,6 +174,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3731-find-missing-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [4020-elevator-requests-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4020-elevator-requests-i/) | Easy |
 ## Sorting
@@ -331,6 +332,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +374,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -440,6 +443,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0678-valid-parenthesis-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1025-divisor-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1406-stone-game-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
