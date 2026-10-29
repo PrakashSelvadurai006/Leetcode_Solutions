@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     int LOG;
     int[] tin, tout, dep, bit, pref;
