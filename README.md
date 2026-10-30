@@ -290,6 +290,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3794-reverse-string-prefix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3931-check-adjacent-digit-differences](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3931-check-adjacent-digit-differences/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -322,6 +323,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2333-minimum-sum-of-squared-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,6 +525,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -577,6 +580,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
