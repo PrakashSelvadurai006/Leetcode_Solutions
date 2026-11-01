@@ -73,6 +73,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0292-nim-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0292-nim-game/) | Easy |
 | [0412-fizz-buzz](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
@@ -115,6 +116,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0283-move-zeroes](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0414-third-maximum-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0463-island-perimeter](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
