@@ -90,6 +90,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -170,6 +171,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3452-sum-of-good-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -236,6 +238,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -332,6 +335,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2333-minimum-sum-of-squared-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -459,6 +463,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0678-valid-parenthesis-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1025-divisor-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1406-stone-game-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Minimax
@@ -609,6 +614,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1652-defuse-the-bomb](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy |
 ## Impartial Game
 | Problem Name | Difficulty |
