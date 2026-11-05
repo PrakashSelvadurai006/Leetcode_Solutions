@@ -131,6 +131,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -198,6 +199,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -419,6 +421,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0268-missing-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Interactive
@@ -440,6 +443,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0283-move-zeroes](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Brainteaser
