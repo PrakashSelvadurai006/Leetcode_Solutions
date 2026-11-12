@@ -163,6 +163,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2956-find-common-elements-between-two-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3151-special-array-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
