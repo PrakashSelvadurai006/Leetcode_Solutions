@@ -169,6 +169,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3200-maximum-height-of-a-triangle](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3200-maximum-height-of-a-triangle/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3446-sort-matrix-by-diagonals](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
@@ -441,6 +442,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1991-find-the-middle-index-in-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -626,6 +628,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [1652-defuse-the-bomb](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy |
