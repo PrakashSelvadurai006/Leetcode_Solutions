@@ -82,6 +82,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1406-stone-game-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1927-sum-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2409-count-days-spent-together](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
@@ -135,6 +136,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1528-shuffle-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -439,6 +441,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
@@ -476,6 +479,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0678-valid-parenthesis-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1025-divisor-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1406-stone-game-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
