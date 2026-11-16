@@ -298,6 +298,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1816-truncate-sentence](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1927-sum-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2315-count-asterisks](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -414,6 +415,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0415-add-strings](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [1260-shift-2d-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3174-clear-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3174-clear-digits/) | Easy |
