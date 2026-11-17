@@ -193,6 +193,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [4020-elevator-requests-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4020-elevator-requests-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -448,6 +449,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3028-ant-on-the-boundary](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
