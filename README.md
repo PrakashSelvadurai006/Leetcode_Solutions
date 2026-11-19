@@ -131,6 +131,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [1260-shift-2d-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -205,6 +206,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0414-third-maximum-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -232,6 +234,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0389-find-the-difference](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
