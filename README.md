@@ -167,6 +167,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2956-find-common-elements-between-two-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3151-special-array-i/) | Easy |
@@ -427,6 +428,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3174-clear-digits/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
@@ -469,6 +471,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0557-reverse-words-in-a-string-iii](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
