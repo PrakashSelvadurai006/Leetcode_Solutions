@@ -173,6 +173,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3151-special-array-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3151-special-array-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3200-maximum-height-of-a-triangle](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3200-maximum-height-of-a-triangle/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3354-make-array-elements-equal-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
@@ -254,6 +255,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2965-find-missing-and-repeated-values](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -317,6 +319,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3110-score-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3174-clear-digits/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3210-find-the-encrypted-string/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -585,6 +588,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0101-symmetric-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -598,6 +602,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [0399-evaluate-division](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0463-island-perimeter](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Search Tree
