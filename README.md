@@ -92,6 +92,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -179,6 +180,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3354-make-array-elements-equal-to-zero](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3446-sort-matrix-by-diagonals](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3452-sum-of-good-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3452-sum-of-good-numbers/) | Easy |
@@ -269,6 +271,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,6 +535,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3200-maximum-height-of-a-triangle](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3200-maximum-height-of-a-triangle/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy |
 ## Database
@@ -658,6 +662,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [2747-count-zero-request-servers](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy |
