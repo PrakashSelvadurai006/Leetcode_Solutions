@@ -203,6 +203,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 | [4020-elevator-requests-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4020-elevator-requests-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -359,6 +360,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -512,6 +514,7 @@ This repository is maintained for my personal learning journey. Suggestions and 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/PrakashSelvadurai006/Leetcode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
